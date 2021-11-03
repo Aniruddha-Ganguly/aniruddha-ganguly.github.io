@@ -355,6 +355,12 @@
   }
 }
 
+@media (max-width: 991px) {
+   .u-section-3 {
+    min-height: 2494px;
+  }
+}
+
 @media (max-width: 767px) {
   .u-section-3 .u-text-1 {
     margin-top: 60px;
@@ -379,7 +385,6 @@
 .u-section-4 .u-group-1 {
   width: 981px;
   min-height: 538px;
-  height: auto;
   margin: 70px 50px 60px auto;
 }
 
@@ -444,7 +449,6 @@
     margin-top: 30px;
     margin-right: -36px;
     margin-bottom: 15px;
-    height: auto;
   }
 
   .u-section-4 .u-text-1 {
